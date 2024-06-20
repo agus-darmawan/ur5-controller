@@ -75,6 +75,6 @@ To run the system, follow these steps:
 
 ## Authors and Acknowledgment
 
-[agus-darmawan](mailto:wayanagus.dr@gmail.com)
+Agus Darmawan - [wayanagus.dr@gmail.com](mailto:wayanagus.dr@gmail.com)
 
 Special thanks to the ROS community and contributors for providing valuable resources and support.
