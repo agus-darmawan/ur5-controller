@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Ubuntu 22.04
 - ROS2 Humble
-- Network connection with a static IP address for the USV
+- Network connection with a static IP address for the UR5
 
 ## Package Description
 
